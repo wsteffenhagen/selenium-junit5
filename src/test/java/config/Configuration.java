@@ -14,7 +14,6 @@ public class Configuration {
     /**
      * Gets web driver manager.
      *
-     * @param testName the test name
      * @return the web driver manager
      */
     public synchronized static WebDriverManager getWebDriverManager() {
